@@ -1,26 +1,20 @@
-<h1 align="center">Hi 👋, I'm MUJEEB RATHORE</h1>
-<h3 align="center">A passionate Web Developer and MERN Stack Developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Mujeeb</h1>
+<h3 align="center">A passionate AI-integrated Mobile and Web App Developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **Mobile Application Development**  
 - 🌱 I’m currently learning **Django, MERN Stack, WordPress, JIRA, Java**  
 - 👯 I’m looking to collaborate on [Azure](https://github.com/mujeeb4/Azure)  
 - 👨‍💻 All of my projects are available at [GitHub Portfolio](https://github.com/mujeeb4)  
 - 💬 Ask me about **React, Data Structures, Python Packages, WordPress**  
-- 📫 How to reach me **mujeeb4@gmail.com**  
-- ⚡ Fun fact: **I love turning coffee into code! ☕**
+- 📫 How to reach me **mujeebrathore4@gmail.com**  
+- ⚡ Fun fact: **I love turning tea into code! ☕**
 
 ---
 
 ## 🌐 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com" target="blank">
+  <a href="[https://linkedin.com/in/www.linkedin.com](https://www.linkedin.com/in/muhammad-mujeeb-59017623b/)" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
