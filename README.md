@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Mujeeb</h1>
-<h3 align="center">A passionate AI-integrated Mobile and Web App Developer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
 - 🔭 I’m currently working on **Mobile Application Development**  
 - 🌱 I’m currently learning **Django, MERN Stack, WordPress, JIRA, Java**  
